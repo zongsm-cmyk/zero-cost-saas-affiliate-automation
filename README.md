@@ -86,8 +86,17 @@ This repository contains affiliate referral links. If you register or purchase a
 ---
 
 ## 🔗 Related Resources & Productized Services
-- 💼 **PostgreSQL Production Benchmark:** [postgresql-query-optimization-benchmark](https://github.com/zongsm-cmyk/postgresql-query-optimization-benchmark)
-- 🚀 **Python API & LLM Reliability Rescue ($95):** [Gumroad Productized Service](https://mhamedasskoure.gumroad.com/l/python-api-llm-failover-setup)
-- 🛒 **Official Creator Store:** [ALFAROUQ Digital Solutions](https://mhamedasskoure.gumroad.com)
+
+Use the free architecture and code in this repository without purchasing any toolkit. For **estimating whether an automation idea is economically viable**, the optional [Automation ROI Scenario Planner — $6.30 with EARLY30DEV (regular $9)](https://mhamedasskoure.gumroad.com/l/automation-roi-scenario-planner-offline/EARLY30DEV?utm_source=github&utm_medium=organic&utm_campaign=zero_cost_automation_roi_20261124) includes an offline three-scenario planning tool, editable assumptions, CSV export, printable report and pilot brief. This is a planning aid, **not** a guarantee of ROI or marketing results.
+
+For freelancer client intake and quoting, see [CleanQuote Client Onboarding & Offline Quote Builder — $14.90](https://mhamedasskoure.gumroad.com/l/cleanquote-client-onboarding-kit?utm_source=github&utm_medium=organic&utm_campaign=zero_cost_client_onboarding_20261124) (one-time digital files; separate from the free project).
+
+If you build Python-powered LLM workflows, the separate [Agency Tech Master Bundle — $15.33 with EARLY30DEV (regular $21.90)](https://mhamedasskoure.gumroad.com/l/ktkuv/EARLY30DEV?utm_source=github&utm_medium=organic&utm_campaign=zero_cost_agency_bundle_20261124) combines example LLM failure-handling code with CleanQuote Estimation System. It is **not** a preconfigured systeme.io funnel.
+
+- **PostgreSQL technical services:** [PostgreSQL query-performance examples and audit](https://github.com/zongsm-cmyk/postgresql-query-optimization-benchmark).
+- **Scoped Python/API engineering:** [$95 fixed-scope service](https://mhamedasskoure.gumroad.com/l/python-api-scoped-commission), subject to written scope and terms before purchase.
+- **Official store:** [Askoure Tools](https://mhamedasskoure.gumroad.com/).
+
+**Disclosure:** The systeme.io links above are affiliate links. The Gumroad products listed here are sold by Askoure Tools. Confirm eligibility, taxes and final totals at checkout; do not share credentials or customer data.
 
 *Maintained by Mhamed Askoure (`zongsm-cmyk`)*
